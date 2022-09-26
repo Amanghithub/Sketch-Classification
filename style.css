@@ -1,0 +1,12 @@
+body{
+    background-image: url("bg.png");
+    color: white;
+}
+h1{
+    background-color: black;
+    width: fit-content;
+}
+
+p{
+    font-size: 20px;
+}
